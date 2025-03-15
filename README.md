@@ -1,0 +1,3 @@
+- added SPICE directive .include in the schematics
+- added symbol
+- added library (unencrypted SPICE model from TI)
